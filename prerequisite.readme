@@ -1,0 +1,4 @@
+1. Setup passwordless SSH from Source to target database for the user who is the owner of the IQ database.
+2. Setup the DSN for IQ database at source & the target server.
+3. Make sure that you have enough space for taking backup of the source & moving the same backup to the target.
+
